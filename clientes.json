@@ -1,0 +1,18 @@
+{
+    "clientes": [
+        {
+            "nome": "leonardo",
+            "email": "leozoiverde@hotmail.com",
+            "telefone": "(16) 99142 - 3021",
+            "empresa": "pedra",
+            "status": "inativo"
+        },
+        {
+            "nome": "leonardo2",
+            "email": "leozoiverde@hotmail.com",
+            "telefone": "(16) 99142 - 3021",
+            "empresa": "pedra",
+            "status": "ativo"
+        }
+    ]
+}
